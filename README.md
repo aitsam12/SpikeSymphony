@@ -72,7 +72,6 @@ This repository is distributed under the **MIT License**. See [LICENSE](./LICENS
 
 ## 🔗 Related Links
 
-- [Spiky Piano Demo →](./Spiky_Piano/)
-- [SpecDrum Demo →](./SpecDrum/)
-- [SpikeCV Competition Website →](https://spikecv.github.io/competition)
+- [For further details →](https://drive.google.com/drive/folders/1wqUzkawWUynG5-lLnSmAsEhlxCzCKSd8?usp=sharing)
+
 
