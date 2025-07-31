@@ -4,6 +4,14 @@
 
 ---
 
+## 🎬 Demo Video Access
+
+Scan the QR code below to watch the full SpikeSymphony demo:
+
+![QR Code – SpikeSymphony Video](https://api.qrserver.com/v1/create-qr-code/?data=https://drive.google.com/file/d/1IcTUOA38Nxw2VePjlaT7BVriMjvWq1l_/view?usp=sharing&size=220x220)
+
+---
+
 ## 🎯 Overview
 
 Objects of varying sizes are thrown or moved in the field of view of an event camera. The system dynamically classifies the object size into **small**, **medium**, or **large**, and triggers a musical note from the corresponding sound bank.
