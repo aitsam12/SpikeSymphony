@@ -47,6 +47,7 @@
   [Website](https://sites.google.com/view/aitsam) • [GitHub](https://github.com/aitsam12)
 
 - **Technical Support**: Syed Saad Hassan
+
   Sapienza University of Rome, Italy
 
 - **Supervision**: Dr. Alejandro Jiménez Rodríguez  
