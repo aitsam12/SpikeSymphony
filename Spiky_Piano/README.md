@@ -45,7 +45,7 @@ Event Camera Input → Event Iterator
 
 ---
 
-## Installation Requirements
+## 🖼️ Installation Requirements
 
 Python 3.8+
 
