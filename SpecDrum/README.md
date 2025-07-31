@@ -4,6 +4,14 @@
 
 ---
 
+## 🥁 SpecDrum Demo Video
+
+Scan the QR code below to watch the SpecDrum demonstration:
+
+![QR Code – SpecDrum Video](https://api.qrserver.com/v1/create-qr-code/?data=https://drive.google.com/file/d/1cnroQZ1Y-kGFFjX0Xo7LP2N9fhJieFDf/view?usp=sharing&size=220x220)
+
+---
+
 ## 🎯 Overview
 
 In this demo, physical vibrations—such as tapping or striking sticks—are picked up by an event camera (e.g., SilkyEvCam). The sensor output is analysed for high-frequency activity across four regions of interest, triggering a beat if the energy and persistence surpass thresholds.
