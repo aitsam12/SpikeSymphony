@@ -43,6 +43,7 @@ Event Camera Input → Event Iterator
      ↓
 [Sound Trigger via PyGame]
 
+---
 
 ## Installation Requirements
 
@@ -54,6 +55,7 @@ Dependencies:
 
 pip install numpy opencv-python pygame
 
+---
 
 ## Audio Samples
 
@@ -63,6 +65,7 @@ spiky_piano/
 │   ├── medium/
 │   └── large/
 
+---
 
 ## Running the Demo
 
